@@ -11,7 +11,7 @@ const CardData = [
     },
     {
         imgSrc: '3',
-        title: 'Space #3',        
+        title: 'Door Dunes #3',        
         link: 'https://opensea.io/',
     },
     {
